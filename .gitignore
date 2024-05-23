@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore any local environment files
+.env
+
+# Ignore Vercel specific files
+.vercel
+
+# Ignore any installed dependencies
+env/
